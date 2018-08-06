@@ -38,24 +38,6 @@ class MysqlConfig(object):
     def __del__(self):
         print('del souces')
 
-    
-# m1 = MysqlConfig()
-# m2 = MysqlConfig()
-# print(m1 is m2)
-# import configparser
-# import string
-
-# config = configparser.ConfigParser()
-# # config.add_section('config') 
-# # config.set('config','v1','100')
-
-# # with open('D:\\vscode\python\src\study\mysql\config.conf','w') as fw:
-# #     config.write(fw)
-
-# config.read(dir_path + '\config.conf')
-# host = config.get('mysql', 'mysql_host')
-# host1 = config.options('mysql')
-# print(host1)
 
 
 
