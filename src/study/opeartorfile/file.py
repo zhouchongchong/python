@@ -1,25 +1,27 @@
 # _*_ coding: utf-8 _*_
 import os
+import json
 
 
-def do_flie():
+def do_flie(file_path):
     try:
-        os.chdir('src/study/')
-        fo = open('auth.py', 'r')
+        fo = open(file_path, 'r', encoding='UTF-8')
         print(fo.name)
         print(fo.mode)
     except Exception:
         print("无法打开此文件")
     else:
         print("every thing is ok")
-        print('str:', fo.read(10))
-        print('str:', fo.readlines())
+        # print('str:', fo.read(10))
+        # print('str:', fo.readlines())
+        # words = fo.readlines()
+        words = fo.read()
         fo.close
+        return words
 
 
-a = 1
 
-
+a  = 1
 def do_test():
     global a
     print(a)
@@ -40,7 +42,7 @@ def nonlocal_test():
         print(num)
     inner_area()
 
-sites = ["Baidu", "Google", "Runoob", "Taobao"]
+# sites = ["Baidu", "Google", "Runoob", "Taobao"]
 def loop():
     global sites
     for site in sites:
@@ -54,13 +56,13 @@ def loop():
 
 # nonlocal_test()
 # loop()
-try:
-    do_test()
-    print(a)
-except NameError as ex:
-    print("exception: %s" % ex)
+# try:
+#     do_test()
+#     print(a)
+# except NameError as ex:
+#     print("exception: %s" % ex)
 
-with open("auth.py") as f:
-    for line in f: 
-        print(line, end="")    
+# with open("auth.py") as f:
+#     for line in f: 
+#         print(line, end="")    
 

@@ -4,5 +4,5 @@ mysql.config:
     port: 3306
     user: 'zhouchong'
     pwd: Lhy@1220.com
-    db: 'test'
+    db: 'chineseDic'
     charset: 'utf8'

@@ -15,8 +15,8 @@ class MysqlPool(object):
     __config = None
 
     def __init__(self):
-        self.coon = MysqlPool.getMysqlConnect()
-        self.cur = self.coon.cursor(cursor=pymysql.cursors.DictCursor)
+        self.conn = MysqlPool.getMysqlConnect()
+        self.cur = self.conn.cursor(cursor=pymysql.cursors.DictCursor)
 
     @staticmethod
     def getMysqlConnect():
@@ -27,6 +27,26 @@ class MysqlPool(object):
             port=msc.port, user=msc.user, password=msc.pwd, db=msc.db,use_unicode=False, charset=msc.charset,setsession=[])
             print(__pool)
         return __pool.connection();
+
+
+    def add(self):  # 增
+        sql = 'insert into testtb values(1,"Tom",18),(2,"Jerry",16),(3,"Hank",24)'
+        res = self.cur.execute(sql)
+        if res:
+            self.conn.commit()
+        else:
+            self.conn.rollback()
+        print(res)
+
+    def insert_many(self,sql,values):
+        count = self.cur.executemany(sql,values)
+        if count:
+            self.conn.commit()
+        else:
+            self.conn.rollback()
+        print(count)
+        return count
+        
 
 
 if __name__ == '__main__':
