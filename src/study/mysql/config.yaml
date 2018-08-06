@@ -1,0 +1,8 @@
+mysql.config:
+  conn:
+    host: '47.98.165.155'
+    port: 3306
+    user: 'zhouchong'
+    pwd: Lhy@1220.com
+    db: 'test'
+    charset: 'utf8'
