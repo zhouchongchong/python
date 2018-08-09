@@ -1,0 +1,98 @@
+1533638027497	geckodriver	INFO	geckodriver 0.21.0
+1533638027509	geckodriver	INFO	Listening on 127.0.0.1:64214
+1533638335438	geckodriver	INFO	Listening on 127.0.0.1:64784
+1533638771734	geckodriver	INFO	Listening on 127.0.0.1:49331
+1533638775959	mozprofile::profile	INFO	Using profile path C:\Users\76409\AppData\Local\Temp\rust_mozprofile.De910WA843Yq
+1533638776163	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-headless", "--disable-gpu"]
+1533638776239	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49343
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+UnablUnabele  to treaod V R Path Registry frrom ead VR Path Registry from CC:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+1533638788493	Marionette	INFO	Listening on port 2828
+1533638935968	geckodriver	INFO	Listening on 127.0.0.1:49725
+1533638938969	mozprofile::profile	INFO	Using profile path C:\Users\76409\AppData\Local\Temp\rust_mozprofile.lc5jSMvFCgab
+1533638938979	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-headless", "--disable-gpu"]
+1533638938989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49737
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from UnC:\Useable trs\76409\Apo rpDaead VR Pta\ath RegiLocstryal\openv frr\oom penvrpatC:\hs.Usevrpath
+rs\76409\AppData\Local\openvr\openvrpaths.vrpath
+1533638953128	Marionette	INFO	Listening on port 2828
+1533639010439	geckodriver	INFO	Listening on 127.0.0.1:49941
+1533639013484	mozprofile::profile	INFO	Using profile path C:\Users\76409\AppData\Local\Temp\rust_mozprofile.7lY1bLW4a31c
+1533639013680	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-headless", "--disable-gpu"]
+1533639013689	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49955
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+1533639024881	Marionette	INFO	Listening on port 2828
+1533639048573	geckodriver	INFO	Listening on 127.0.0.1:50031
+1533639059781	mozprofile::profile	INFO	Using profile path C:\Users\76409\AppData\Local\Temp\rust_mozprofile.xadYAEr8srfX
+1533639059792	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-headless", "--disable-gpu"]
+1533639059805	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50063
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+1533639068933	Marionette	INFO	Listening on port 2828
+1533639171629	geckodriver	INFO	Listening on 127.0.0.1:50294
+1533639174685	mozprofile::profile	INFO	Using profile path C:\Users\76409\AppData\Local\Temp\rust_mozprofile.ah90JTnXr9zE
+1533639174692	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-headless", "--disable-gpu"]
+1533639174705	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50307
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24080, Chrome_ChildThread]1533639195707	Marionette	INFO	Listening on port 2828
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+1533639241150	geckodriver	INFO	Listening on 127.0.0.1:50485
+1533639244207	mozprofile::profile	INFO	Using profile path C:\Users\76409\AppData\Local\Temp\rust_mozprofile.hFqtET1T10yL
+1533639244391	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-headless", "--disable-gpu"]
+1533639244403	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50497
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+1533639265340	Marionette	INFO	Listening on port 2828
+[Parent 28488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25172, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0107,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/extension-process-script.js, line 455: NS_ERROR_UNEXPECTED: 
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+86
+1533639405330	mozprofile::profile	INFO	Using profile path C:\Users\76409\AppData\Local\Temp\rust_mozprofile.5UsgfXtgY0Hg
+1533639405338	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-headless", "--disable-gpu"]
+1533639405349	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50799
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+1533639433178	Marionette	INFO	Listening on port 2828
+[Parent 26012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28508, ChroUnable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: Receive IPCriver	INFO	Listening on 127.0.0.1:51338
+1533639622200	mozprofile::profile	INFO	Using profile path C:\Users\76409\AppData\Local\Temp\rust_mozprofile.qcoCSruP3DTY
+1533639622293	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-headless"]
+1533639622306	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51357
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\76409\AppData\Local\openvr\openvrpaths.vrpath
+1533639630576	Marionette	INFO	Listening on port 2828

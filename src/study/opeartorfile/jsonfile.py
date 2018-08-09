@@ -34,12 +34,6 @@ def file_db_for():
             value = (i['word'], i['oldword'], i['strokes'], i['pinyin'], i['radicals'], i['explanation'], i['more'])
             values.append(value)
        
-if __name__ == '__main__':
-    print('excute jsonFile')
-    # print(timeit.timeit(stmt=file_db_kv)) 
-    # print(timeit.timeit(stmt=file_db_for,number=0))
-    # print(timeit.timeit(stmt=file_db_kv,number=0))
-
 
 def file_word_db():
     file_path = 'D:\\vscode\\python\\src\\study\\chinese-xinhua\\data\\word.json'
@@ -57,3 +51,37 @@ def file_word_db():
     ms = mysql.MysqlPool()
     count = ms.insert_many(sql, values)
     print('insert into db influence %s rows' % count)
+
+
+def file_idiom_db():
+    file_path = 'D:\\vscode\python\src\study\chinese-xinhua\data\idiom.json'
+    with open(file_path,'r',encoding='UTF-8') as file:
+        words = file.read()
+        values = []
+        for word in json.loads(words):
+            value =(word['word'],word['abbreviation'],word['pinyin'],word['explanation'],word['example'],word['derivation'])
+            values.append(value)
+
+        sql = 'INSERT INTO idiom (word,abbreviation,spell,explanation,example,derivation) values (%s,%s,%s,%s,%s,%s)'
+        ms = mysql.MysqlPool()
+        count = ms.insert_many(sql, values)
+        print('insert into idiom db influence %s rows' % count)
+
+def file_xiehouyu_db():
+    file_path = 'D:\\vscode\\python\\src\\study\\chinese-xinhua\\data\\xiehouyu.json'
+    with open(file_path,'r',encoding='UTF-8') as file:
+        words = file.read()
+        values = []
+        for word in json.loads(words):
+            value =(word['riddle'],word['answer'])
+            values.append(value)
+
+        sql = 'INSERT INTO xiehouyu (riddle,answer) values (%s,%s)'
+        ms = mysql.MysqlPool()
+        count = ms.insert_many(sql, values)
+        print('insert into xiehouyu db influence %s rows' % count)
+
+
+if __name__ == '__main__':
+    print('excute jsonFile')
+    # file_xiehouyu_db()

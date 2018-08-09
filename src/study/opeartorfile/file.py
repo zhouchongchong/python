@@ -42,7 +42,7 @@ def nonlocal_test():
         print(num)
     inner_area()
 
-# sites = ["Baidu", "Google", "Runoob", "Taobao"]
+sites = ["Baidu", "Google", "Runoob", "Taobao"]
 def loop():
     global sites
     for site in sites:
