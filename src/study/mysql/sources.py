@@ -9,6 +9,7 @@ import os
 import yaml 
 
 class MysqlConfig(object):
+
     def __new__(cls, *args, **kwargs):
         if not hasattr(cls, '_instance'):
             cls._instance = super().__new__(cls)
@@ -33,7 +34,7 @@ class MysqlConfig(object):
         self.pwd = mysql_infos['pwd']
         self.db = mysql_infos['db']
         self.charset = mysql_infos['charset']
-
+        
 
     def __del__(self):
         print('del souces')

@@ -16,7 +16,7 @@ def do_flie(file_path):
         # print('str:', fo.readlines())
         # words = fo.readlines()
         words = fo.read()
-        fo.close
+        fo.close()
         return words
 
 
