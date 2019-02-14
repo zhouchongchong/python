@@ -37,11 +37,11 @@ def music_max():
     chromedriver = 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chromedriver.exe'
     os.environ["webdriver.chrome.driver"] = chromedriver
     # driver 初始化
-    options = Options()
-    options.set_headless(True)
-    options.add_argument('--disable-gpu')
+    options = webdriver.ChromeOptions()
+    options.add_argument('headless')
+    # options.add_argument('--disable-gpu')
     options.add_argument('lang=zh_CN.gbk')
-    driver = webdriver.Chrome(chromedriver, options=options)
+    driver = webdriver.Chrome(chromedriver, chrome_options=options)
     # driver.set_page_load_timeout(1)
     # driver.maximize_window()
 
@@ -63,6 +63,7 @@ def music_max():
                     msk = data[i].find_element_by_css_selector('a.msk')
                     writer.writerow(
                         [msk.get_attribute('title'), nb, msk.get_attribute('href')])
+                    logging.info('歌单： %s 已经播放了 %s次' % (msk.get_attribute('title'),nb))
             except Exception as e:
                 print(e)
                 continue
@@ -75,6 +76,6 @@ def music_max():
 
 if __name__ == '__main__':
     print('spider web begain')
-    # music_max()
+    music_max()
     # test_spider()
-    logging.error('this is very %s' % 'nice')
+    logging.info('this is very %s' % 'nice')
