@@ -26,6 +26,6 @@ def test_spider():
             print(kv)
 
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
     print('request_test')
     test_spider()
