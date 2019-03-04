@@ -1,2 +1,2417 @@
 [2018-08-13 16:37:08] INFO [log_config:loggin.py, 25] logging config is complie!
 [2018-08-13 16:37:08] INFO [<module>:loggin.py, 35] ni guo lai a
+[2019-03-04 13:55:39] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 13:55:39] INFO [<module>:loggin.py, 35] ni guo lai a
+[2019-03-04 14:15:02] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 14:15:02] INFO [<module>:fang_TX.py, 26] sprider of house from libafagn is began
+[2019-03-04 14:15:02] INFO [house_libafang:fang_TX.py, 21] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 14:15:02] INFO [<module>:fang_TX.py, 28] sprider of house from libafagn is end
+[2019-03-04 14:18:13] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 14:18:26] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 14:18:26] INFO [<module>:fang_TX.py, 26] sprider of house from libafagn is began
+[2019-03-04 14:18:26] INFO [house_libafang:fang_TX.py, 21] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 14:18:26] INFO [<module>:fang_TX.py, 28] sprider of house from libafagn is end
+[2019-03-04 14:38:10] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 14:38:10] INFO [<module>:fang_TX.py, 26] sprider of house from libafagn is began
+[2019-03-04 14:38:10] INFO [house_libafang:fang_TX.py, 21] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 14:38:10] INFO [<module>:fang_TX.py, 28] sprider of house from libafagn is end
+[2019-03-04 15:37:01] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 15:37:01] INFO [<module>:fang_TX.py, 49] sprider of house from libafagn is began
+[2019-03-04 15:37:01] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 15:39:00] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 15:39:00] INFO [<module>:fang_TX.py, 49] sprider of house from libafagn is began
+[2019-03-04 15:39:00] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 15:39:50] INFO [house_libafang:fang_TX.py, 42] <selenium.webdriver.remote.webelement.WebElement (session="d49fa2df428a8a7f77463cb29e046db4", element="0.7700003273349278-1")>
+[2019-03-04 15:39:50] INFO [<module>:fang_TX.py, 51] sprider of house from libafagn is end
+[2019-03-04 15:45:30] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 15:45:30] INFO [<module>:fang_TX.py, 53] sprider of house from libafagn is began
+[2019-03-04 15:45:30] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 15:45:34] INFO [house_libafang:fang_TX.py, 43] 31
+[2019-03-04 15:45:34] INFO [<module>:fang_TX.py, 55] sprider of house from libafagn is end
+[2019-03-04 16:00:28] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 16:00:28] INFO [<module>:fang_TX.py, 59] sprider of house from libafagn is began
+[2019-03-04 16:00:28] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:00:38] INFO [house_libafang:fang_TX.py, 45] 31
+[2019-03-04 16:00:38] INFO [house_libafang:fang_TX.py, 46] 7
+[2019-03-04 16:00:38] INFO [house_libafang:fang_TX.py, 47] 末页
+[2019-03-04 16:00:38] INFO [<module>:fang_TX.py, 61] sprider of house from libafagn is end
+[2019-03-04 16:01:55] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 16:01:55] INFO [<module>:fang_TX.py, 61] sprider of house from libafagn is began
+[2019-03-04 16:01:55] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:02:00] INFO [house_libafang:fang_TX.py, 45] 31
+[2019-03-04 16:02:00] INFO [house_libafang:fang_TX.py, 46] 7
+[2019-03-04 16:02:00] INFO [house_libafang:fang_TX.py, 47] 末页
+[2019-03-04 16:02:27] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 16:02:27] INFO [<module>:fang_TX.py, 61] sprider of house from libafagn is began
+[2019-03-04 16:02:27] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:02:31] INFO [house_libafang:fang_TX.py, 45] 31
+[2019-03-04 16:02:31] INFO [house_libafang:fang_TX.py, 46] 7
+[2019-03-04 16:02:31] INFO [house_libafang:fang_TX.py, 47] 末页
+[2019-03-04 16:03:11] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 16:03:11] INFO [<module>:fang_TX.py, 61] sprider of house from libafagn is began
+[2019-03-04 16:03:11] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:03:15] INFO [house_libafang:fang_TX.py, 45] 31
+[2019-03-04 16:03:15] INFO [house_libafang:fang_TX.py, 46] 7
+[2019-03-04 16:03:15] INFO [house_libafang:fang_TX.py, 47] 末页
+[2019-03-04 16:03:15] INFO [house_libafang:fang_TX.py, 48] [<selenium.webdriver.remote.webelement.WebElement (session="df10f11637cf2f2759ad0b060da2a3e3", element="0.4819948772972593-34")>, <selenium.webdriver.remote.webelement.WebElement (session="df10f11637cf2f2759ad0b060da2a3e3", element="0.4819948772972593-35")>, <selenium.webdriver.remote.webelement.WebElement (session="df10f11637cf2f2759ad0b060da2a3e3", element="0.4819948772972593-36")>, <selenium.webdriver.remote.webelement.WebElement (session="df10f11637cf2f2759ad0b060da2a3e3", element="0.4819948772972593-37")>, <selenium.webdriver.remote.webelement.WebElement (session="df10f11637cf2f2759ad0b060da2a3e3", element="0.4819948772972593-38")>, <selenium.webdriver.remote.webelement.WebElement (session="df10f11637cf2f2759ad0b060da2a3e3", element="0.4819948772972593-39")>, <selenium.webdriver.remote.webelement.WebElement (session="df10f11637cf2f2759ad0b060da2a3e3", element="0.4819948772972593-40")>]
+[2019-03-04 16:03:15] INFO [<module>:fang_TX.py, 63] sprider of house from libafagn is end
+[2019-03-04 16:05:18] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 16:05:18] INFO [<module>:fang_TX.py, 61] sprider of house from libafagn is began
+[2019-03-04 16:05:18] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:05:22] INFO [house_libafang:fang_TX.py, 45] 31
+[2019-03-04 16:05:22] INFO [house_libafang:fang_TX.py, 46] 7
+[2019-03-04 16:05:22] INFO [house_libafang:fang_TX.py, 47] 末页
+[2019-03-04 16:07:34] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 16:07:34] INFO [<module>:fang_TX.py, 61] sprider of house from libafagn is began
+[2019-03-04 16:07:34] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:07:38] INFO [house_libafang:fang_TX.py, 45] 31
+[2019-03-04 16:07:38] INFO [house_libafang:fang_TX.py, 46] 7
+[2019-03-04 16:07:38] INFO [house_libafang:fang_TX.py, 47] 末页
+[2019-03-04 16:07:49] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 16:07:49] INFO [<module>:fang_TX.py, 61] sprider of house from libafagn is began
+[2019-03-04 16:07:49] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:07:53] INFO [house_libafang:fang_TX.py, 45] 31
+[2019-03-04 16:07:53] INFO [house_libafang:fang_TX.py, 46] 7
+[2019-03-04 16:07:53] INFO [house_libafang:fang_TX.py, 47] 末页
+[2019-03-04 16:07:53] INFO [house_libafang:fang_TX.py, 48] <selenium.webdriver.remote.webelement.WebElement (session="16ab4c98157b78a47539d554543577e2", element="0.6027490318618465-40")>
+[2019-03-04 16:07:53] INFO [<module>:fang_TX.py, 63] sprider of house from libafagn is end
+[2019-03-04 16:11:02] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 16:11:02] INFO [<module>:fang_TX.py, 61] sprider of house from libafagn is began
+[2019-03-04 16:11:02] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:11:06] INFO [house_libafang:fang_TX.py, 45] 31
+[2019-03-04 16:11:06] INFO [house_libafang:fang_TX.py, 46] 7
+[2019-03-04 16:11:06] INFO [house_libafang:fang_TX.py, 47] 末页
+[2019-03-04 16:11:06] INFO [house_libafang:fang_TX.py, 48] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 16:11:06] INFO [<module>:fang_TX.py, 63] sprider of house from libafagn is end
+[2019-03-04 17:09:46] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:09:46] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 17:09:46] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:09:50] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:09:50] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:09:50] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:09:50] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:15:34] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:15:34] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is began
+[2019-03-04 17:15:34] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:15:38] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:15:38] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:15:38] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:15:38] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:17:28] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:17:28] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is began
+[2019-03-04 17:17:28] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:17:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:40] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:18:40] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is began
+[2019-03-04 17:18:40] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:44] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:45] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:45] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:45] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:45] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:18:45] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:18:45] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:14] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:19:14] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is began
+[2019-03-04 17:19:14] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:17] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 65] title:
+[2019-03-04 17:19:18] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:22:36] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:22:36] INFO [<module>:fang_TX.py, 95] sprider of house from libafagn is began
+[2019-03-04 17:22:36] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:22:40] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:22:40] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:22:40] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:22:40] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:23:49] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:23:49] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 17:23:49] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:23:53] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:23:53] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:23:53] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:23:53] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:23:53] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:23:54] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:20] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:27:20] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 17:27:20] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:27:24] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:14] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:28:14] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 17:28:14] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 66] title:
+[2019-03-04 17:28:18] INFO [house_libafang:fang_TX.py, 74] 
+[2019-03-04 17:28:39] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:28:39] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 17:28:39] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:28:42] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:28:42] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:28:42] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:28:42] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:31:56] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:31:56] INFO [<module>:fang_TX.py, 95] sprider of house from libafagn is began
+[2019-03-04 17:31:56] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:32:00] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:32:00] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:32:00] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:32:00] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:01] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 67] title:
+[2019-03-04 17:32:02] INFO [house_libafang:fang_TX.py, 75] 
+[2019-03-04 17:32:02] INFO [<module>:fang_TX.py, 97] sprider of house from libafagn is end
+[2019-03-04 17:37:07] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:37:07] INFO [<module>:fang_TX.py, 96] sprider of house from libafagn is began
+[2019-03-04 17:37:07] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:37:15] INFO [house_libafang:fang_TX.py, 47] 31
+[2019-03-04 17:37:15] INFO [house_libafang:fang_TX.py, 48] 7
+[2019-03-04 17:37:15] INFO [house_libafang:fang_TX.py, 49] 末页
+[2019-03-04 17:37:15] INFO [house_libafang:fang_TX.py, 51] https://zu.fang.com/house/g22-i34-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:41:16] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:41:16] INFO [<module>:fang_TX.py, 92] sprider of house from libafagn is began
+[2019-03-04 17:41:16] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:41:21] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is end
+[2019-03-04 17:41:57] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:41:57] INFO [<module>:fang_TX.py, 92] sprider of house from libafagn is began
+[2019-03-04 17:41:57] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:42:03] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is end
+[2019-03-04 17:42:40] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:42:40] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is began
+[2019-03-04 17:42:40] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:42:45] INFO [<module>:fang_TX.py, 95] sprider of house from libafagn is end
+[2019-03-04 17:43:04] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:43:04] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is began
+[2019-03-04 17:43:04] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:43:09] INFO [<module>:fang_TX.py, 95] sprider of house from libafagn is end
+[2019-03-04 17:43:27] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:43:27] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is began
+[2019-03-04 17:43:27] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:篱笆房站芭蕾雨悦都南北两居室室内家具家电齐全交通便利
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:新悦都 两居 南北通透 临篱笆房地铁站 随时看房 可配全齐
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:长阳 随时看房+近地铁+中国铁建国际花园
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:国际花园 精装婚房两居 中高楼层 房主未出租过 看房方便
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:篱笆房+芭蕾雨精装两居+家具齐全+拎包入住
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:万科长阳天地 业主诚心出租 随时入住
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:篱笆房站 芭蕾雨 精装2居 公园 随时看房 拎包入住
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:篱笆房地铁站 芭蕾雨 精装带空调阳台主卧 随时看房干净舒适
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 65] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 17:43:32] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:长阳金域公园精装2居南向可配齐东西拎包入住城铁篱笆房站
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯商圈+篱笆房+精装两居出租+拎包入住
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:篱笆房地铁站 精装修 拎包入住
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:长阳天地 住宅 家具家电齐全 看房随时 奥特莱斯旁
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都.干净两居室出租,家具家电齐全拎包入住
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:婚房装修别错过 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:房山篱笆房 芭蕾雨悦都 温馨两居 家具家电全齐 包物业取暖
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 两居 南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:长阳 篱笆房地铁 芭蕾雨悦都 南北通透两居室 全随时看房
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:33] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯+篱笆房+长阳公园+芭蕾雨两居+拎包入住+随时看房
+[2019-03-04 17:43:34] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:34] INFO [house_libafang:fang_TX.py, 65] title:长阳精装两居室+朝南向+采光好+交通便捷
+[2019-03-04 17:43:34] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:34] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都.干净两居室出租,家具家电齐全拎包入住
+[2019-03-04 17:43:34] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:34] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 奥特莱斯+公园+交通便利 精装 找个干净的租户
+[2019-03-04 17:43:34] INFO [house_libafang:fang_TX.py, 73] 
+[2019-03-04 17:43:34] INFO [<module>:fang_TX.py, 95] sprider of house from libafagn is end
+[2019-03-04 17:48:41] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:48:41] INFO [<module>:fang_TX.py, 91] sprider of house from libafagn is began
+[2019-03-04 17:48:41] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:48:45] INFO [house_libafang:fang_TX.py, 65] title:长阳金域公园精装2居南向可配齐东西拎包入住城铁篱笆房站
+[2019-03-04 17:48:45] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南
+[2019-03-04 17:54:19] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:54:19] INFO [<module>:fang_TX.py, 91] sprider of house from libafagn is began
+[2019-03-04 17:54:19] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:54:22] INFO [house_libafang:fang_TX.py, 65] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 17:54:22] INFO [house_libafang:fang_TX.py, 66] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 17:54:22] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:22] INFO [house_libafang:fang_TX.py, 65] title:长阳 篱笆房地铁 芭蕾雨悦都 南北通透两居室 全随时看房
+[2019-03-04 17:54:22] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|89㎡|朝南北
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 两居 南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 65] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 66] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 65] title:房山篱笆房 芭蕾雨悦都 温馨两居 家具家电全齐 包物业取暖
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|89㎡|朝南
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 65] title:国际花园 精装婚房两居 中高楼层 房主未出租过 看房方便
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花园-
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 65] title:长阳半岛3号院 2室1厅 3900元 诚心出租 看房有钥
+[2019-03-04 17:54:23] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-五和万科长阳天地-
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都精装两居 家具家电齐全拎包入住 近地铁
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 65] title:长阳 精装2居 家具家电齐全 小区购物方便 交通便利
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 65] title:篱笆房国际花园两居室 干净整洁 高楼层视野好
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 71] 密云-密云果园-国际花都-
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都.干净两居室出租,家具家电齐全拎包入住
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|75㎡|朝南
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 65] title:篱笆房加州水郡采光好干湿分离购物方便停车方便是理想的家来来来
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|91㎡|朝南
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-加州水郡西区-
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯+篱笆房地铁+精装两居室+拎包入住
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨-
+[2019-03-04 17:54:24] INFO [house_libafang:fang_TX.py, 65] title:篱笆房地铁站,芭蕾雨悦都,家具家电全齐两居室,婚房装修!
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|88㎡|朝北
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 65] title:房山长阳首创新悦都2居室,豪华装修,带包入住,临地铁小区
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 65] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 65] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|91㎡|朝南北
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-清雅小区-
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 长阳精装 南北通透 随时看房 拎包入住
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|86㎡|朝南
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 65] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-新悦都-
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 65] title:长阳新悦都精装2居室家具家电全齐有钥匙随时看整租
+[2019-03-04 17:54:25] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 65] title:新上!奥特莱斯商圈篱笆房地铁精装两居出租拎包入住
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 65] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 66] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 65] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 65] title:篱笆房地铁站 芭蕾雨 精装带空调阳台主卧 随时看房干净舒适
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 66] 合租主卧|2户合租|20㎡|朝南
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 65] title:长阳 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花园-
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 65] title:新悦都+家电全齐+地铁+奥特莱斯+诚心出租+有钥匙
+[2019-03-04 17:54:26] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|70㎡|朝南北
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦都-
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 65] title:长阳奥特莱斯篱笆房长阳公园两居室
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|88㎡|朝南北
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦都-
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 65] title:长阳国际城 2居室 家具家电齐全 拎包入住
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|89㎡|朝东
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花园-
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 65] title:长阳金域公园精装2居南向可配齐东西拎包入住城铁篱笆房站
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|90㎡|朝西
+[2019-03-04 17:54:27] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-金域公园-
+[2019-03-04 17:54:27] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is end
+[2019-03-04 17:55:06] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:55:06] INFO [<module>:fang_TX.py, 91] sprider of house from libafagn is began
+[2019-03-04 17:55:06] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:55:10] INFO [house_libafang:fang_TX.py, 65] title:长阳半岛3号院 2室1厅 3900元 诚心出租 看房有钥
+[2019-03-04 17:55:10] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南
+[2019-03-04 17:57:01] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:57:01] INFO [<module>:fang_TX.py, 91] sprider of house from libafagn is began
+[2019-03-04 17:57:01] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:57:05] INFO [house_libafang:fang_TX.py, 65] title:可养宠物 篱笆房地铁 芭蕾雨悦都精装两居 保洁已做
+[2019-03-04 17:57:05] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|88㎡|朝南北
+[2019-03-04 17:57:31] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 17:57:31] INFO [<module>:fang_TX.py, 91] sprider of house from libafagn is began
+[2019-03-04 17:57:31] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 17:57:35] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都精装两居 家具家电齐全拎包入住 近地铁
+[2019-03-04 17:57:35] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 65] title:篱笆房站芭蕾雨悦都南北两居室室内家具家电齐全交通便利
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|80㎡|朝南北
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 65] title:篱笆房站长阳环岛空房两居室可商量配齐全南向出行方便采光好
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|103㎡|朝南
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-西棕榈
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 65] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|89㎡|朝南
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 65] title:长阳金域公园精装2居南向可配齐东西拎包入住城铁篱笆房站
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-金域公
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 65] title:篱笆房国际花园两居室 干净整洁 高楼层视野好
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 71] 密云-密云果园-国际花
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 17:57:36] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都.干净两居室出租,家具家电齐全拎包入住
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|75㎡|朝南
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 65] title:长阳金域公园精装2居南向可配齐东西拎包入住城铁篱笆房站
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|90㎡|朝西
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-金域公
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 65] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯+篱笆房地铁+精装两居室+拎包入住
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 65] title:长阳国际城 2居室 家具家电齐全 拎包入住
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|89㎡|朝东
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 65] title:房山 精装大两居 家电齐全 随时入住
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:37] INFO [house_libafang:fang_TX.py, 65] title:房山篱笆房 新悦都两居室 有家具家电 随时可看
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|75㎡|朝南
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 65] title:篱笆房地铁站 精装修 拎包入住
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 65] title:篱笆房地铁站,芭蕾雨悦都,家具家电全齐两居室,婚房装修!
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|88㎡|朝北
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 65] title:万科长阳天地 业主诚心出租 随时入住
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|82㎡|朝南
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-五和万科长阳天
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 65] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 66] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 65] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 奥特莱斯+公园+交通便利 精装 找个干净的租户
+[2019-03-04 17:57:38] INFO [house_libafang:fang_TX.py, 66] 整租|2室2厅|89㎡|朝南北
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 65] title:篱笆房加州水郡 新上房源南向两居室 干净整洁 有钥匙方便
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|88㎡|朝南
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-加州水郡西
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 租户干净 家电全新 新上好房 装修温馨
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 66] 合租主卧|2户合租|10㎡|朝西南
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 65] title:长阳 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯+篱笆房地铁+长阳公园+芭蕾雨两居+拎包入住
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|82㎡|朝南
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯篱笆房地铁芭蕾雨两居可养宠物
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|80㎡|朝南
+[2019-03-04 17:57:39] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 65] title:篱笆房站 新悦都两居室 精装修 有家具家电 随时可看 请致电
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 65] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-新悦
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 65] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 66] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-芭蕾雨悦
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 65] title:婚房装修别错过 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 65] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 17:57:40] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-04 17:57:40] INFO [<module>:fang_TX.py, 93] sprider of house from libafagn is end
+[2019-03-04 18:04:15] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:04:15] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 18:04:15] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:04:19] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:04:19] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:04:19] INFO [house_libafang:fang_TX.py, 72] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:06:37] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:06:37] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 18:06:37] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:06:41] INFO [house_libafang:fang_TX.py, 65] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-04 18:06:41] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:06:42] INFO [house_libafang:fang_TX.py, 72] 房山-长阳-中国铁建国际花
+[2019-03-04 18:07:54] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:07:54] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 18:07:54] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:07:58] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:07:58] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:07:58] INFO [house_libafang:fang_TX.py, 72] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:11:08] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:11:08] INFO [<module>:fang_TX.py, 94] sprider of house from libafagn is began
+[2019-03-04 18:11:08] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:11:15] INFO [house_libafang:fang_TX.py, 65] title:婚房装修别错过 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 18:11:15] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:11:15] INFO [house_libafang:fang_TX.py, 72] 房山-长阳-中国铁建国际花
+[2019-03-04 18:11:15] INFO [house_libafang:fang_TX.py, 75] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:11:15] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯商圈+篱笆房+精装两居出租+拎包入住
+[2019-03-04 18:11:15] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:11:15] INFO [house_libafang:fang_TX.py, 72] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:11:15] INFO [house_libafang:fang_TX.py, 75] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:11:15] INFO [<module>:fang_TX.py, 96] sprider of house from libafagn is end
+[2019-03-04 18:14:34] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:14:34] INFO [<module>:fang_TX.py, 96] sprider of house from libafagn is began
+[2019-03-04 18:14:34] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:14:39] INFO [house_libafang:fang_TX.py, 65] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:14:39] INFO [house_libafang:fang_TX.py, 66] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:14:39] INFO [house_libafang:fang_TX.py, 72] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:38:41] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:38:41] INFO [<module>:fang_TX.py, 114] sprider of house from libafagn is began
+[2019-03-04 18:38:41] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:38:44] INFO [<module>:fang_TX.py, 116] sprider of house from libafagn is end
+[2019-03-04 18:39:25] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:39:25] INFO [<module>:fang_TX.py, 114] sprider of house from libafagn is began
+[2019-03-04 18:39:25] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:39:29] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房地铁+长阳公园+芭蕾雨两居+拎包入住
+[2019-03-04 18:39:29] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南
+[2019-03-04 18:39:29] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:39:29] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:39:30] INFO [house_libafang:fang_TX.py, 68] title:万科长阳天地 业主诚心出租 随时入住
+[2019-03-04 18:39:30] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南
+[2019-03-04 18:39:30] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:39:30] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:39:30] INFO [<module>:fang_TX.py, 116] sprider of house from libafagn is end
+[2019-03-04 18:40:17] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:40:17] INFO [<module>:fang_TX.py, 114] sprider of house from libafagn is began
+[2019-03-04 18:40:17] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:40:40] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:40:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 68] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:40:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:40:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 68] title:万科 长阳天地 2室1厅 精装修 高楼层 采光好
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:40:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 租户干净 家电全新 新上好房 装修温馨
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 70] 合租主卧|2户合租|10㎡|朝西南
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:40:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 68] title:长阳 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 18:40:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:40:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:40:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站,芭蕾雨悦都,家具家电全齐两居室,婚房装修!
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|88㎡|朝北
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:40:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:40:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 68] title:新悦都+家电全齐+地铁+奥特莱斯+诚心出租+有钥匙
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|70㎡|朝南北
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:40:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯商圈+篱笆房+精装两居出租+拎包入住
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:40:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:42] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房地铁+芭蕾雨两居+拎包入住
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:40:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-新悦
+[2019-03-04 18:40:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡采光好干湿分离购物方便停车方便是理想的家来来来
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:40:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 68] title:万科长阳天地 业主诚心出租 随时入住
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:40:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 68] title:长阳天地 住宅 家具家电齐全 看房随时 奥特莱斯旁
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|80㎡|朝南
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:40:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 68] title:整租丨奥特莱斯 篱笆房地铁 精装两居 领包入住
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|90㎡|朝南北
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:40:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:43] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站 芭蕾雨 精装带空调阳台主卧 随时看房干净舒适
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 70] 合租主卧|2户合租|20㎡|朝南
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:40:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 68] title:长阳精装两居室+朝南向+采光好+交通便捷
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:40:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 68] title:篱笆房城铁 两居室 屋子干净整洁 全齐 拎包入住 看房联系
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:40:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|89㎡|朝南北
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:40:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 68] title:长阳奥特莱斯篱笆房长阳公园两居室
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|88㎡|朝南北
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:40:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房地铁+长阳公园+芭蕾雨两居+拎包入住
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南
+[2019-03-04 18:40:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:40:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-新悦
+[2019-03-04 18:40:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:40:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站 精装修 拎包入住
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:40:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:40:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 68] title:国际花园装修两居室 家具家电都有 到篱笆房站很方便
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:40:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 68] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 18:40:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:40:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:40:46] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室 南北通透 一梯两户 篱笆房地铁
+[2019-03-04 18:40:46] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:40:46] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:40:46] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:41:08] INFO [<module>:fang_TX.py, 116] sprider of house from libafagn is end
+[2019-03-04 18:42:22] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:42:22] INFO [<module>:fang_TX.py, 115] sprider of house from libafagn is began
+[2019-03-04 18:42:22] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房地铁+精装两居室+拎包入住
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:42:29] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:29] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:29] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:42:29] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:30] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 68] title:新悦都+家电全齐+地铁+奥特莱斯+诚心出租+有钥匙
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|70㎡|朝南北
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:30] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 68] title:房山 精装大两居 家电齐全 随时入住
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:30] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡 新上房源南向两居室 干净整洁 有钥匙方便
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|88㎡|朝南
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:42:30] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站芭蕾雨悦都 精装修两居室 家电齐全 交通便利
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南北
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:30] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 68] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:42:30] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 68] title:篱笆房国际花园两居室 干净整洁 高楼层视野好
+[2019-03-04 18:42:30] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 76] 密云-密云果园-国际花
+[2019-03-04 18:42:31] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡采光好干湿分离购物方便停车方便是理想的家来来来
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:42:31] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:31] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 68] title:长阳 随时看房+近地铁+中国铁建国际花园
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 70] 合租主卧|2户合租|10㎡|朝东南
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:42:31] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 68] title:房山长阳芭蕾雨 篱笆房 精装婚房三居 家电可配齐 温馨干净
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南北
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:31] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站 精装修 拎包入住
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:31] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:31] INFO [house_libafang:fang_TX.py, 68] title:整租丨奥特莱斯 篱笆房地铁 精装两居 领包入住
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|90㎡|朝南北
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:32] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 68] title:房主诚心出租,带包入住
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|117㎡|朝东
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:42:32] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 68] title:房山篱笆房 新悦都两居室 有家具家电 随时可看
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:32] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:32] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁 奥特莱斯 长阳半岛 清雅小区
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|92㎡|朝南
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:42:32] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:32] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:32] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 租户干净 家电全新 新上好房 装修温馨
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 70] 合租主卧|2户合租|10㎡|朝西南
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:33] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 68] title:长阳 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:42:33] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 68] title:家具家电全齐地铁奥特莱斯诚心出租有钥匙
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:33] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 长阳精装 南北通透 随时看房 拎包入住
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:33] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站 芭蕾雨 精装带空调阳台主卧 随时看房干净舒适
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 70] 合租主卧|2户合租|20㎡|朝南
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:33] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 68] title:长阳篱笆房,芭蕾雨悦都 近地铁临公园 环境优美
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南北
+[2019-03-04 18:42:33] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:33] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都精装两居 家具家电齐全拎包入住 近地铁
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:34] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南北
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:42:34] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 68] title:万科 长阳天地 2室1厅 精装修 高楼层 采光好
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南
+[2019-03-04 18:42:34] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:42:34] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:42] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:42:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:42:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:42] INFO [house_libafang:fang_TX.py, 68] title:篱笆房 长阳稻精装两居室+南北通透+高楼层+采光好+交通便捷
+[2019-03-04 18:42:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:42:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首开熙悦
+[2019-03-04 18:42:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:42] INFO [house_libafang:fang_TX.py, 68] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 18:42:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 68] title:国际花园 精装婚房两居 中高楼层 房主未出租过 看房方便
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:42:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都.干净两居室出租,家具家电齐全拎包入住
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 68] title:国际花园装修两居室 家具家电都有 到篱笆房站很方便
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:42:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 68] title:篱笆房城铁 两居室 屋子干净整洁 全齐 拎包入住 看房联系
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:42:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站,芭蕾雨悦都,家具家电全齐两居室,婚房装修!
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|88㎡|朝北
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 68] title:长阳奥特莱斯篱笆房长阳公园两居室
+[2019-03-04 18:42:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|88㎡|朝南北
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站 精装修 拎包入住
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 68] title:新悦都+家电全齐+地铁+奥特莱斯+诚心出租+有钥匙
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|70㎡|朝南北
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:42:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站 芭蕾雨 精装2居 公园 随时看房 拎包入住
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|87㎡|朝南北
+[2019-03-04 18:42:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:42:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:42:54] INFO [<module>:fang_TX.py, 117] sprider of house from libafagn is end
+[2019-03-04 18:44:42] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:44:42] INFO [<module>:fang_TX.py, 115] sprider of house from libafagn is began
+[2019-03-04 18:44:42] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:44:59] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:44:59] INFO [<module>:fang_TX.py, 115] sprider of house from libafagn is began
+[2019-03-04 18:44:59] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:45:16] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:45:16] INFO [<module>:fang_TX.py, 115] sprider of house from libafagn is began
+[2019-03-04 18:45:16] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:45:31] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:45:31] INFO [<module>:fang_TX.py, 115] sprider of house from libafagn is began
+[2019-03-04 18:45:31] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:46:19] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁 奥特莱斯 长阳半岛 合景领峰 芭蕾雨 清雅小区
+[2019-03-04 18:46:19] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|92㎡|朝南
+[2019-03-04 18:46:19] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:46:19] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:46:55] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:46:55] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:46:55] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:46:55] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:46:57] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 18:46:57] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:46:57] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:46:57] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:46:58] INFO [house_libafang:fang_TX.py, 68] title:长阳精装两居室+朝南向+采光好+交通便捷
+[2019-03-04 18:46:58] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南
+[2019-03-04 18:46:58] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:46:58] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:46:59] INFO [house_libafang:fang_TX.py, 68] title:房主诚心出租,带包入住
+[2019-03-04 18:46:59] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|117㎡|朝东
+[2019-03-04 18:46:59] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:46:59] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:47:00] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站 精装修 拎包入住
+[2019-03-04 18:47:00] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:47:00] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:47:00] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:47:00] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡采光好干湿分离购物方便停车方便是理想的家来来来
+[2019-03-04 18:47:00] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南
+[2019-03-04 18:47:00] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:47:00] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:47:46] INFO [house_libafang:fang_TX.py, 68] title:房山长阳国际花园精装修二居室全齐看房方便随时可以入住
+[2019-03-04 18:47:46] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:47:47] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:47:47] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:48:36] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:48:36] INFO [<module>:fang_TX.py, 115] sprider of house from libafagn is began
+[2019-03-04 18:48:36] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:49:15] INFO [house_libafang:fang_TX.py, 68] title:新悦都 两居 南北通透 临篱笆房地铁站 随时看房 可配全齐
+[2019-03-04 18:49:22] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝北
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:39] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站长阳环岛空房两居室可商量配齐全南向出行方便采光好
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|103㎡|朝南
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-西棕榈
+[2019-03-04 18:49:39] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 68] title:新上!奥特莱斯商圈篱笆房地铁精装两居出租拎包入住
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:39] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 68] title:一套! 篱笆房芭蕾雨 精装两居 家具家电全齐包物业取暖
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:39] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房,奥特莱斯 芭蕾雨近 新悦都两居近 业主直租
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:39] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:49:39] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-新悦
+[2019-03-04 18:49:40] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:40] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 68] title:房山长阳国际花园精装修二居室全齐看房方便随时可以入住
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:49:40] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 68] title:长阳篱笆房,芭蕾雨悦都 近地铁临公园 环境优美
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南北
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:40] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 68] title:国际花园 精装婚房两居 中高楼层 房主未出租过 看房方便
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:49:40] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 68] title:长阳 精装2居 家具家电齐全 小区购物方便 交通便利
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:40] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡 新上房源南向两居室 干净整洁 有钥匙方便
+[2019-03-04 18:49:40] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|88㎡|朝南
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:49:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都精装两居 家具家电齐全拎包入住 近地铁奥特莱斯
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南北
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:49:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 68] title:篱笆房 长阳稻精装两居室+南北通透+高楼层+采光好+交通便捷
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首开熙悦
+[2019-03-04 18:49:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 68] title:长阳 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:49:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 68] title:长阳金域公园精装2居南向可配齐东西拎包入住城铁篱笆房站
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-金域公
+[2019-03-04 18:49:41] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:41] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站 新悦都两居室 精装修 有家具家电 随时可看 请致电
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 68] title:房山篱笆房 芭蕾雨悦都 温馨两居 家具家电全齐 包物业取暖
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 68] title:整租丨奥特莱斯 篱笆房地铁 精装两居 领包入住
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|90㎡|朝南北
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 68] title:房山 精装大两居 家电齐全 随时入住
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 68] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:49:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 68] title:长阳国际城 2居室 家具家电齐全 拎包入住
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝东
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:49:42] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都精装两居 家具家电齐全拎包入住 近地铁
+[2019-03-04 18:49:42] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 68] title:家具家电全齐地铁奥特莱斯诚心出租有钥匙
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 68] title:长阳国际花园 精装婚房两居出租 家电齐全 看房方便
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:49:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 68] title:万科 长阳天地 2室1厅 精装修 高楼层 采光好
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:49:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 68] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 18:49:43] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:43] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:44] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站芭蕾雨悦都南北两居室室内家具家电齐全交通便利
+[2019-03-04 18:49:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|80㎡|朝南北
+[2019-03-04 18:49:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:44] INFO [house_libafang:fang_TX.py, 68] title:家具家电全齐地铁奥特莱斯诚心出租有钥匙
+[2019-03-04 18:49:44] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:49:44] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:44] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:44] INFO [house_libafang:fang_TX.py, 68] title:篱笆房城铁 两居室 屋子干净整洁 全齐 拎包入住 看房联系
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:49:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 68] title:长阳篱笆房,芭蕾雨悦都 近地铁临公园 环境优美
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南北
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 68] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|89㎡|朝南北
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:49:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:45] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房+长阳公园+芭蕾雨两居+拎包入住+随时看房
+[2019-03-04 18:49:45] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:49:46] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 68] title:房山长阳站 精装婚房两居 家电可配齐 温馨干净
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:46] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 68] title:新悦都+家电全齐+地铁+奥特莱斯+诚心出租+有钥匙
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|70㎡|朝南北
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:49:46] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 68] title:诚心推荐长阳 篱笆房地铁 精装两居采光好南北通透 随时看房
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:49:46] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 68] title:国际花园 精装婚房两居 中高楼层 房主未出租过 看房方便
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:49:46] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁 奥特莱斯 长阳半岛 清雅小区
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|92㎡|朝南
+[2019-03-04 18:49:46] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:49:46] ERROR [house_libafang:fang_TX.py, 86] list index out of range
+[2019-03-04 18:49:46] INFO [<module>:fang_TX.py, 117] sprider of house from libafagn is end
+[2019-03-04 18:52:48] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:52:48] INFO [<module>:fang_TX.py, 115] sprider of house from libafagn is began
+[2019-03-04 18:52:48] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡 新上房源南向两居室 干净整洁 有钥匙方便
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|88㎡|朝南
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:52:52] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 68] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:52] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|89㎡|朝南北
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:52:52] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约862米。
+[2019-03-04 18:52:52] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:53] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站芭蕾雨悦都 精装修两居室 家电齐全 交通便利
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南北
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:53] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 68] title:长阳 篱笆房地铁 两居 南北通透看房方便 随时入住
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:53] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 68] title:国际花园 精装婚房两居 中高楼层 房主未出租过 看房方便
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:52:53] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 68] title:篱笆房国际花园两居室 干净整洁 高楼层视野好
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:52:53] INFO [house_libafang:fang_TX.py, 76] 密云-密云果园-国际花
+[2019-03-04 18:52:53] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:54] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 68] title:长阳新悦都精装2居室家具家电全齐有钥匙随时看整租
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:54] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站长阳环岛空房两居室可商量配齐全南向出行方便采光好
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|103㎡|朝南
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-西棕榈
+[2019-03-04 18:52:54] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:54] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都+南北通透+房子采光好+正规两居室
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:54] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:54] INFO [house_libafang:fang_TX.py, 68] title:长阳 首创新悦都 精装大两居 家电齐全 随时入住
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:55] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 68] title:房山长阳芭蕾雨 篱笆房 精装婚房三居 家电可配齐 温馨干净
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南北
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:55] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 68] title:长阳国际花园 精装婚房两居出租 家电齐全 看房方便
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:52:55] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 68] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:55] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:55] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:55] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯篱笆房地铁芭蕾雨两居可养宠物
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|80㎡|朝南
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:56] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 68] title:新上!奥特莱斯商圈篱笆房地铁精装两居出租拎包入住
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:56] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 68] title:长阳 篱笆房站 芭蕾雨 精装2居 全套家电家具 拎包入住
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南北
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:56] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 68] title:篱笆房城铁 两居室 屋子干净整洁 全齐 拎包入住 看房联系
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约862米。
+[2019-03-04 18:52:56] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站 芭蕾雨 精装带空调阳台主卧 随时看房干净舒适
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 70] 合租主卧|2户合租|20㎡|朝南
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:56] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:56] INFO [house_libafang:fang_TX.py, 68] title:篱笆房城铁 两居室 屋子干净整洁 全齐 拎包入住 看房联系
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约862米。
+[2019-03-04 18:52:57] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 68] title:整租丨奥特莱斯 篱笆房地铁 精装两居 领包入住
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|90㎡|朝南北
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:57] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 68] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:52:57] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:57] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房+长阳公园+芭蕾雨两居+拎包入住+随时看房
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:52:57] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:57] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站长阳环岛空房两居室可商量配齐全南向出行方便采光好
+[2019-03-04 18:52:58] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|103㎡|朝南
+[2019-03-04 18:52:58] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-西棕榈
+[2019-03-04 18:52:58] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:58] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡采光好干湿分离购物方便停车方便是理想的家来来来
+[2019-03-04 18:52:58] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南
+[2019-03-04 18:52:58] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:52:58] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 68] title:万科长阳天地 业主诚心出租 随时入住
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约996米。
+[2019-03-04 18:52:59] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 68] title:家具家电全齐地铁奥特莱斯诚心出租有钥匙
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:59] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 68] title:房山篱笆房 新悦都两居室 有家具家电 随时可看
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:59] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都.干净两居室出租,家具家电齐全拎包入住
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:59] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 68] title:长阳 首创新悦都 精装大两居 家电齐全 随时入住
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:52:59] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 68] title:房山长阳芭蕾雨 篱笆房 精装婚房三居 家电可配齐 温馨干净
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南北
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:52:59] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:53:00] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 68] title:房山 奥特莱斯 芭蕾雨近 新悦都两居近地铁 业主直租
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:53:00] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都精装两居室南北通透干净整洁家电齐全拎包入住
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|86㎡|朝南北
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:53:00] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:53:00] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房+长阳公园+芭蕾雨两居+拎包入住+随时看房
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:53:00] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 长阳精装 南北通透 随时看房 拎包入住
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:53:00] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 奥特莱斯+公园+交通便利 精装 找个干净的租户
+[2019-03-04 18:53:00] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|89㎡|朝南北
+[2019-03-04 18:53:01] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:53:01] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:01] INFO [house_libafang:fang_TX.py, 68] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 18:53:01] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 18:53:01] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:53:01] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:01] INFO [house_libafang:fang_TX.py, 68] title:诚心推荐长阳 篱笆房地铁 精装两居采光好南北通透 随时看房
+[2019-03-04 18:53:01] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:53:01] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:53:01] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:53:01] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:53:01] INFO [<module>:fang_TX.py, 117] sprider of house from libafagn is end
+[2019-03-04 18:56:58] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:56:58] INFO [<module>:fang_TX.py, 120] sprider of house from libafagn is began
+[2019-03-04 18:56:58] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:57:02] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 18:57:02] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|89㎡|朝南北
+[2019-03-04 18:57:02] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:57:02] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约862米。
+[2019-03-04 18:57:02] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:07] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:07] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房地铁+精装两居室+拎包入住
+[2019-03-04 18:57:07] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:57:07] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:57:07] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:08] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:08] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:08] INFO [house_libafang:fang_TX.py, 68] title:长阳国际花园 精装婚房两居出租 家电齐全 看房方便
+[2019-03-04 18:57:08] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:57:08] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:57:08] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:57:08] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:09] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:09] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:57:09] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:57:09] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:09] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:09] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:10] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:10] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都+南北通透+房子采光好+正规两居室
+[2019-03-04 18:57:10] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:57:10] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:10] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:10] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都精装两居 家具家电齐全拎包入住 近地铁
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:14] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 68] title:篱笆房国际花园两居室 干净整洁 高楼层视野好
+[2019-03-04 18:57:14] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 76] 密云-密云果园-国际花
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站芭蕾雨悦都南北两居室室内家具家电齐全交通便利
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|80㎡|朝南北
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 68] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 68] title:国际花园装修两居室 家具家电都有 到篱笆房站很方便
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁 奥特莱斯 长阳半岛 合景领峰 芭蕾雨 清雅小区
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|92㎡|朝南
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约862米。
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:15] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房,奥特莱斯 芭蕾雨近 新悦都两居近 业主直租
+[2019-03-04 18:57:15] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房地铁+芭蕾雨两居+拎包入住
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 68] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 68] title:长阳 篱笆房地铁 芭蕾雨悦都 南北通透两居室 全随时看房
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南北
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房地铁边 清雅小区 精装两居出租 随时入住
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南北
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-清雅小
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约862米。
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:16] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站芭蕾雨悦都 精装修两居室 家电齐全 交通便利
+[2019-03-04 18:57:16] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南北
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 68] title:长阳 首创新悦都 精装大两居 家电齐全 随时入住
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 68] title:房山篱笆房 芭蕾雨悦都 温馨两居 家具家电全齐 包物业取暖
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站 新悦都两居室 精装修 有家具家电 随时可看 请致电
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯+篱笆房+长阳公园+芭蕾雨两居+拎包入住+随时看房
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:17] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:17] INFO [house_libafang:fang_TX.py, 68] title:房山长阳站 精装婚房两居 家电可配齐 温馨干净
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 68] title:新悦都 两居 南北通透 临篱笆房地铁站 随时看房 可配全齐
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝北
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 68] title:万科 长阳天地 2室1厅 精装修 高楼层 采光好
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|81㎡|朝南
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约996米。
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡采光好干湿分离购物方便停车方便是理想的家来来来
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|91㎡|朝南
+[2019-03-04 18:57:18] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:18] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 68] title:篱笆房加州水郡 新上房源南向两居室 干净整洁 有钥匙方便
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|88㎡|朝南
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-加州水郡西
+[2019-03-04 18:57:19] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:19] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:19] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 68] title:长阳金域公园精装2居南向可配齐东西拎包入住城铁篱笆房站
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝西
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-金域公
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:57:19] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:19] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 68] title:长阳 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-04 18:57:19] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 68] title:长阳 精装2居 家具家电齐全 小区购物方便 交通便利
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 68] title:长阳国际花园 精装婚房两居出租 家电齐全 看房方便
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 68] title:国际花园装修两居室 家具家电都有 到篱笆房站很方便
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|76㎡|朝南
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-中国铁建国际花
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 68] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:20] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 68] title:房山 篱笆房,奥特莱斯 芭蕾雨近 新悦都两居近 业主直租
+[2019-03-04 18:57:20] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|72㎡|朝南
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 68] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 68] title:长阳半岛3号院 2室1厅 3900元 诚心出租 看房有钥
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-五和万科长阳天
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约996米。
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 68] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 70] 整租|2室2厅|82㎡|朝南北
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 68] title:奥特莱斯商圈+篱笆房+精装两居出租+拎包入住
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:21] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 68] title:新悦都 两居 南北通透 临篱笆房地铁站 随时看房 可配全齐
+[2019-03-04 18:57:21] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝北
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 68] title:房山长阳首创新悦都2居室,豪华装修,带包入住,临地铁小区
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-首创新悦
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 68] title:篱笆房地铁站 精装修 拎包入住
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|90㎡|朝南北
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 79] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 68] title:篱笆房站长阳环岛空房两居室可商量配齐全南向出行方便采光好
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 70] 整租|2室1厅|103㎡|朝南
+[2019-03-04 18:57:22] INFO [house_libafang:fang_TX.py, 76] 房山-长阳-西棕榈
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 81] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 87] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:57:22] ERROR [house_libafang:fang_TX.py, 91] local variable 'price' referenced before assignment
+[2019-03-04 18:57:22] INFO [<module>:fang_TX.py, 122] sprider of house from libafagn is end
+[2019-03-04 18:59:30] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-04 18:59:30] INFO [<module>:fang_TX.py, 125] sprider of house from libafagn is began
+[2019-03-04 18:59:30] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-04 18:59:34] INFO [house_libafang:fang_TX.py, 73] title:奥特莱斯+篱笆房地铁+芭蕾雨两居+拎包入住
+[2019-03-04 18:59:34] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:59:34] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾
+[2019-03-04 18:59:34] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:34] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 73] title:房山长阳芭蕾雨 篱笆房 精装婚房三居 家电可配齐 温馨干净
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|89㎡|朝南北
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:35] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 73] title:房山 精装大两居 家电齐全 随时入住
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:35] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:35] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 73] title:长阳 篱笆房站 芭蕾雨 精装2居 全套家电家具 拎包入住
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|89㎡|朝南北
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:35] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 73] title:奥特莱斯+篱笆房地铁+长阳公园+芭蕾雨两居+拎包入住
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|82㎡|朝南
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:35] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 73] title:长阳新悦都精装2居室 家具家电全齐 有钥匙随时看整租
+[2019-03-04 18:59:35] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:36] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:36] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 73] title:房山篱笆房 新悦都两居室 有家具家电 随时可看
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:36] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:36] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 73] title:首创新悦都精装两居室南北通透干净整洁家电齐全拎包入住
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 75] 整租|2室2厅|86㎡|朝南北
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:36] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:36] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 73] title:万科长阳天地 业主诚心出租 随时入住
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|82㎡|朝南
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-五和万科长阳天
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约996米。
+[2019-03-04 18:59:36] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 73] title:奥特莱斯商圈+篱笆房+精装两居出租+拎包入住
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:36] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:36] INFO [house_libafang:fang_TX.py, 73] title:篱笆房站芭蕾雨悦都 精装修两居室 家电齐全 交通便利
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|81㎡|朝南北
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:37] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 73] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|82㎡|朝南北
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:37] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 73] title:家具家电全齐地铁奥特莱斯诚心出租有钥匙
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:37] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:37] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 73] title:篱笆房加州水郡 新上房源南向两居室 干净整洁 有钥匙方便
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|88㎡|朝南
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-加州水郡西
+[2019-03-04 18:59:37] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:37] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 73] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 75] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:37] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:37] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 73] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|72㎡|朝南北
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:38] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:38] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 73] title:长阳篱笆房地铁 精装两居家电全齐 看房方便 交通便利
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 75] 整租|2室2厅|75㎡|朝南北
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:38] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:38] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 73] title:长阳精装两居室+朝南向+采光好+交通便捷
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|81㎡|朝南
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-中国铁建国际花
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:59:38] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 73] title:长阳新悦都精装2居室家具家电全齐有钥匙随时看整租
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:38] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:38] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 73] title:篱笆房地铁站 芭蕾雨 精装带空调阳台主卧 随时看房干净舒适
+[2019-03-04 18:59:38] INFO [house_libafang:fang_TX.py, 75] 合租主卧|2户合租|20㎡|朝南
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:39] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 73] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:39] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:39] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 73] title:长阳奥特莱斯篱笆房长阳公园两居室
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|88㎡|朝南北
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:39] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 73] title:首创新悦都 奥特莱斯+公园+交通便利 精装 找个干净的租户
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 75] 整租|2室2厅|89㎡|朝南北
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:39] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:39] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 73] title:房山篱笆房 芭蕾雨悦都 温馨两居 家具家电全齐 包物业取暖
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:39] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 73] title:长阳 随时看房+近地铁+中国铁建国际花园
+[2019-03-04 18:59:39] INFO [house_libafang:fang_TX.py, 75] 合租主卧|2户合租|10㎡|朝东南
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-中国铁建国际花
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:59:40] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 73] title:篱笆房站长阳环岛空房两居室可商量配齐全南向出行方便采光好
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|103㎡|朝南
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-西棕榈
+[2019-03-04 18:59:40] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:40] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 73] title:长阳天地 住宅 家具家电齐全 看房随时 奥特莱斯旁
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 75] 整租|2室2厅|80㎡|朝南
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-五和万科长阳天
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约996米。
+[2019-03-04 18:59:40] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 73] title:房主诚心出租,带包入住
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|117㎡|朝东
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-五和万科长阳天
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约996米。
+[2019-03-04 18:59:40] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 73] title:奥特莱斯商圈+篱笆房地铁+精装两居出租+拎包入住
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:40] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 73] title:房山长阳首创新悦都2居室,豪华装修,带包入住,临地铁小区
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:59:40] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:40] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:41] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 73] title:篱笆房+芭蕾雨精装两居+家具齐全+拎包入住
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|80㎡|朝西南
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:42] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 73] title:首创新悦都.干净两居室出租,家具家电齐全拎包入住
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:42] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:42] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 73] title:可养宠物 篱笆房地铁 芭蕾雨悦都精装两居 保洁已做
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|88㎡|朝南北
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:42] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 73] title:国际花园 精装婚房两居 中高楼层 房主未出租过 看房方便
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|76㎡|朝南北
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-中国铁建国际花
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:59:42] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 73] title:篱笆房 长阳稻精装两居室+南北通透+高楼层+采光好+交通便捷
+[2019-03-04 18:59:42] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首开熙悦
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线长阳站约697米。
+[2019-03-04 18:59:43] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 73] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|89㎡|朝南
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-中国铁建国际花
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-04 18:59:43] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 73] title:首创新悦都 两居 南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|86㎡|朝南北
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:43] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:43] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 73] title:新悦都+家电全齐+地铁+奥特莱斯+诚心出租+有钥匙
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|70㎡|朝南北
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:43] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:43] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 73] title:首创新悦都+南北通透+房子采光好+正规两居室
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|75㎡|朝南北
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:43] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:43] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 73] title:奥特莱斯商圈+篱笆房+精装两居出租+拎包入住
+[2019-03-04 18:59:43] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:44] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 73] title:首创新悦都 租户干净 家电全新 新上好房 装修温馨
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 75] 合租主卧|2户合租|10㎡|朝西南
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:44] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:44] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 73] title:首创新悦都.干净两居室出租,家具家电齐全拎包入住
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|75㎡|朝南
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-首创新悦
+[2019-03-04 18:59:44] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:44] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 73] title:篱笆房站长阳环岛空房两居室可商量配齐全南向出行方便采光好
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|103㎡|朝南
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-西棕榈
+[2019-03-04 18:59:44] ERROR [house_libafang:fang_TX.py, 86] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:44] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 73] title:房山 篱笆房芭蕾雨 精装两居出租 随时入住
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 75] 整租|2室1厅|85㎡|朝南北
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 81] 房山-长阳-芭蕾雨悦
+[2019-03-04 18:59:44] INFO [house_libafang:fang_TX.py, 84] 地铁信息：距房山线篱笆房站约732米。
+[2019-03-04 18:59:44] ERROR [house_libafang:fang_TX.py, 92] Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.price"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-04 18:59:44] INFO [<module>:fang_TX.py, 127] sprider of house from libafagn is end
