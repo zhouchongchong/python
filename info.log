@@ -2415,3 +2415,57 @@
   (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
 
 [2019-03-04 18:59:44] INFO [<module>:fang_TX.py, 127] sprider of house from libafagn is end
+[2019-03-05 18:21:13] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-05 18:21:13] INFO [<module>:fang_TX.py, 119] sprider of house from libafagn is began
+[2019-03-05 18:21:13] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-05 18:21:38] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-05 18:21:38] INFO [<module>:fang_TX.py, 119] sprider of house from libafagn is began
+[2019-03-05 18:21:38] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-05 18:21:43] INFO [house_libafang:fang_TX.py, 63] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-05 18:21:43] INFO [house_libafang:fang_TX.py, 65] 整租|2室1厅|86㎡|朝南北
+[2019-03-05 18:21:43] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-05 18:21:43] ERROR [house_libafang:fang_TX.py, 76] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-05 18:22:42] INFO [house_libafang:fang_TX.py, 80] 价格信息：3300
+[2019-03-05 18:23:14] INFO [house_libafang:fang_TX.py, 63] title:首创新悦都 精装两居室南北通透 干净整洁 家电齐全 拎包入住
+[2019-03-05 18:23:14] INFO [house_libafang:fang_TX.py, 65] 整租|2室1厅|76㎡|朝南北
+[2019-03-05 18:23:15] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-新悦
+[2019-03-05 18:23:15] ERROR [house_libafang:fang_TX.py, 76] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-05 18:23:16] INFO [house_libafang:fang_TX.py, 80] 价格信息：3200
+[2019-03-05 18:23:16] INFO [<module>:fang_TX.py, 121] sprider of house from libafagn is end
+[2019-03-05 18:31:53] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-05 18:31:53] INFO [<module>:fang_TX.py, 119] sprider of house from libafagn is began
+[2019-03-05 18:31:53] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-05 18:31:58] INFO [house_libafang:fang_TX.py, 63] title:房山奥特莱斯芭蕾雨近新悦都两居近地铁业主直租
+[2019-03-05 18:31:58] INFO [house_libafang:fang_TX.py, 65] 整租|2室1厅|72㎡|朝南北
+[2019-03-05 18:31:58] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-首创新悦
+[2019-03-05 18:31:58] ERROR [house_libafang:fang_TX.py, 76] Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.note.subInfor"}
+  (Session info: headless chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17763 x86_64)
+
+[2019-03-05 18:33:38] INFO [house_libafang:fang_TX.py, 80] 价格信息：3500
+[2019-03-05 18:33:39] INFO [house_libafang:fang_TX.py, 63] title:近地铁 奥特莱斯旁二居 中间楼层 房子要比照片好 一家人住
+[2019-03-05 18:33:39] INFO [house_libafang:fang_TX.py, 65] 整租|2室1厅|89㎡|朝南
+[2019-03-05 18:33:39] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花
+[2019-03-05 18:33:39] INFO [house_libafang:fang_TX.py, 74] 地铁信息：距房山线篱笆房站约857米。
+[2019-03-05 18:33:39] INFO [house_libafang:fang_TX.py, 80] 价格信息：3600
+[2019-03-05 18:33:40] INFO [<module>:fang_TX.py, 121] sprider of house from libafagn is end
+[2019-03-05 18:33:49] INFO [log_config:loggin.py, 25] logging config is complie!
+[2019-03-05 18:33:49] INFO [<module>:fang_TX.py, 119] sprider of house from libafagn is began
+[2019-03-05 18:33:49] INFO [house_libafang:fang_TX.py, 25] https://zu.fang.com/house/g22-s31-kw%c0%e9%b0%ca%b7%bf/
+[2019-03-05 18:33:54] INFO [house_libafang:fang_TX.py, 63] title:国际花园装修两居室 家具家电都有 到篱笆房站很方便
+[2019-03-05 18:33:54] INFO [house_libafang:fang_TX.py, 65] 整租|2室1厅|77㎡|朝南
+[2019-03-05 18:33:54] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花
+[2019-03-05 18:33:54] INFO [house_libafang:fang_TX.py, 74] 地铁信息：距房山线篱笆房站约857米。 
+[2019-03-05 18:34:05] INFO [house_libafang:fang_TX.py, 80] 价格信息：3000 
+[2019-03-05 18:34:10] INFO [house_libafang:fang_TX.py, 63] title:长阳 国际花园 南北向两居家具家电全齐 包物业取暖
+[2019-03-05 18:34:10] INFO [house_libafang:fang_TX.py, 65] 整租|2室1厅|76㎡|朝南北
+[2019-03-05 18:34:10] INFO [house_libafang:fang_TX.py, 71] 房山-长阳-中国铁建国际花
+[2019-03-05 18:34:10] INFO [house_libafang:fang_TX.py, 74] 地铁信息：距房山线篱笆房站约857米。 
+[2019-03-05 18:34:11] INFO [house_libafang:fang_TX.py, 80] 价格信息：3400 
+[2019-03-05 18:34:11] INFO [<module>:fang_TX.py, 121] sprider of house from libafagn is end

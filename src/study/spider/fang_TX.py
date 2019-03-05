@@ -41,16 +41,11 @@ def house_libafang():
     
     
     flag = True
-    # while flag :
-    #  	driver.get(url)
-    #   	data = driver.find_element_by_class_name('houseList').find_elements_by_tag_name('dl')
-      		
-    #   	for i in range(len(data)):
-	# 		try:
-	# 			house = data[i].find_element_by_class_name('info rel')
-	#       	except Exception as e:
-	# 			logging.error(e)
-	# 			continue
+    title = ''
+    house_lage= ''
+    house_site = ''
+    sub_info = ''
+    price = ''
     while flag:
         # 获取单页数据信息
         driver.get(url)
@@ -58,14 +53,9 @@ def house_libafang():
       	find_elements_by_tag_name('dl')
         list_a = driver.find_element_by_class_name('fanye').\
       	find_elements_by_tag_name('a')
-        for i in range(len(data)):
+        for i in range(2):
             house=data[i].find_elements_by_tag_name("dd")
             for y in range(len(house)):
-                title = ''
-                house_lage= ''
-                house_site = ''
-                sub_info = ''
-                price = ''
                 try:
                     ps = house[y].find_elements_by_tag_name('p')
                     links = ps[0].find_elements_by_tag_name('a')
@@ -81,13 +71,13 @@ def house_libafang():
                     logging.info(house_site[0:len(house_site)-2])
                     try:
                         sub_info = house[y].find_element_by_css_selector("span.note.subInfor")
-                        logging.info("地铁信息："+sub_info.text)
+                        logging.info("地铁信息：%s " % sub_info.text)
                     except Exception as e:
                         logging.error(e)
 
                     try:
-                        price = house[y].find_element_by_css_selector("p.price")
-                        logging.info("价格信息："+price.text)
+                        price = house[y].find_element_by_css_selector("span.price")
+                        logging.info("价格信息：%s " % price.text)
                     except Exception as e:
                         logging.error(e)
                     writer.writerow([title,house_lage,house_site,sub_info,price])
@@ -100,10 +90,14 @@ def house_libafang():
         for i in range(len(list_a)):
             if list_a[i].text == '下一页':
                 flag = True
+                url = list_a[i].get_attribute('href')
                 break
             else:
                 flag = False
             url = list_a[i].get_attribute('href')
+        # 测试控制单元
+        flag = False
+        
 
     csv_file.close()
 
