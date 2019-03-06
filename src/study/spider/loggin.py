@@ -11,14 +11,16 @@ import os
 
 
 def log_config(def_path='/logging.yaml'):
+    # read logging config
     file_cof = None
     try:
         file_cof = open(def_path, 'r', encoding='UTF-8')
-    except Exception as e:
-        print(e)
+    except Exception:
+        logging.error("file not find",exc_info=True)
         path = os.path.dirname(__file__) +def_path
         file_cof = open(path,'r',encoding = 'UTF-8')
         conf = yaml.load(file_cof.read())
+        #logging write config
         logging.config.dictConfig(conf)
     finally:
         file_cof.close()

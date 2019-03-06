@@ -36,7 +36,7 @@ def house_libafang():
     # # 初始化csv 文件 存储获取信息
     csv_file = open('libfang_house.csv', 'w', newline='')
     writer = csv.writer(csv_file)
-    writer.writerow(['小区信息', '户型大小', '地理位置','地铁信息','价格'])
+    writer.writerow(['小区信息', '户型大小', '地理位置','地铁信息','价格','链接'])
 
     
     
@@ -46,6 +46,7 @@ def house_libafang():
     house_site = ''
     sub_info = ''
     price = ''
+    href_pre = 'https://zu.fang.com'
     while flag:
         # 获取单页数据信息
         driver.get(url)
@@ -53,13 +54,14 @@ def house_libafang():
       	find_elements_by_tag_name('dl')
         list_a = driver.find_element_by_class_name('fanye').\
       	find_elements_by_tag_name('a')
-        for i in range(2):
+        for i in range(len(data)):
             house=data[i].find_elements_by_tag_name("dd")
             for y in range(len(house)):
                 try:
                     ps = house[y].find_elements_by_tag_name('p')
                     links = ps[0].find_elements_by_tag_name('a')
                     title = links[0].get_attribute('title')
+                    href = links[0].get_attribute('href')
                     logging.info('title:'+ title)
                     house_lage = ps[1].text
                     logging.info(house_lage)
@@ -80,7 +82,7 @@ def house_libafang():
                         logging.info("价格信息：%s " % price.text)
                     except Exception as e:
                         logging.error(e)
-                    writer.writerow([title,house_lage,house_site,sub_info,price])
+                    writer.writerow([title,house_lage,house_site[0:len(house_site)-1],sub_info.text,price.text+'元/月',href_pre+href])
 
                 except Exception as e:
                     logging.error(e)
@@ -96,7 +98,7 @@ def house_libafang():
                 flag = False
             url = list_a[i].get_attribute('href')
         # 测试控制单元
-        flag = False
+        # flag = False
         
 
     csv_file.close()
@@ -117,5 +119,6 @@ def house_libafang():
 if __name__ == "__main__":
     loggin.log_config()
     logging.info('sprider of house from libafagn is began')
-    house_libafang()
+    # house_libafang()
+    logging.error("error")
     logging.info('sprider of house from libafagn is end')
