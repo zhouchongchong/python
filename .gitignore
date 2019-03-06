@@ -1,7 +1,8 @@
-
 src/study/opeartorfile/__pycache__
 src/study/mysql/__pycache__
-info.log
-libfang_house.csv
+.idea
+.mypy_cache
+
 errors.log
-*.log
+info.log
+env/

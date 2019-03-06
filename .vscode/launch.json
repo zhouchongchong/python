@@ -5,16 +5,35 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Current File (Integrated Terminal)",
+            "name": "Python3",
             "type": "python",
             "request": "launch",
+            "stopOnEntry": false,
+            "pythonPath": "D:\\Python\\Python37\\python.exe", //python3的安装路径
             "program": "${file}",
-            "console": "integratedTerminal"
+            "cwd": "${workspaceFolder}",
+            "env": {},
+            "envFile": "${workspaceFolder}/.env",
+        },
+        {
+            "name": "Python: Terminal (integrated)",
+            "type": "python",
+            "request": "launch",
+            "pythonPath": "D:\\Python\\Python37\\python.exe", //python3的安装路径
+
+            "stopOnEntry": false,
+            "program": "${file}",
+            "cwd": "",
+            "console": "integratedTerminal",
+            "env": {},
+            "envFile": "${workspaceFolder}/.env",
         },
         {
             "name": "Python: Attach",
             "type": "python",
             "request": "attach",
+            "pythonPath": "D:\\Python\\Python37\\python.exe", //python3的安装路径
+
             "port": 5678,
             "host": "localhost"
         },
@@ -22,6 +41,8 @@
             "name": "Python: Module",
             "type": "python",
             "request": "launch",
+            "pythonPath": "D:\\Python\\Python37\\python.exe", //python3的安装路径
+
             "module": "enter-your-module-name-here",
             "console": "integratedTerminal"
         },
@@ -42,6 +63,8 @@
             "name": "Python: Flask",
             "type": "python",
             "request": "launch",
+            "pythonPath": "D:\\Python\\Python37\\python.exe", //python3的安装路径
+
             "module": "flask",
             "env": {
                 "FLASK_APP": "app.py"
@@ -57,6 +80,8 @@
             "name": "Python: Current File (External Terminal)",
             "type": "python",
             "request": "launch",
+            "pythonPath": "D:\\Python\\Python37\\python.exe", //python3的安装路径
+
             "program": "${file}",
             "console": "externalTerminal"
         }

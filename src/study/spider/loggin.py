@@ -32,6 +32,7 @@ def log():
 
     if None:
         print(1)
+
 if __name__ == '__main__':
     log_config()
     logging.info('ni guo lai a')
