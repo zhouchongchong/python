@@ -4,3 +4,4 @@ src/study/mysql/__pycache__
 info.log
 libfang_house.csv
 errors.log
+*.log

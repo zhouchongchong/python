@@ -5163,3 +5163,7 @@
 [2019-03-06 14:16:15] INFO [<module>:fang_TX.py, 121] sprider of house from libafagn is began
 [2019-03-06 14:16:15] ERROR [<module>:fang_TX.py, 123] error
 [2019-03-06 14:16:15] INFO [<module>:fang_TX.py, 124] sprider of house from libafagn is end
+[2019-03-06 14:20:24] INFO [log_config:loggin.py, 27] logging config is complie!
+[2019-03-06 14:20:24] INFO [<module>:fang_TX.py, 121] sprider of house from libafagn is began
+[2019-03-06 14:20:24] ERROR [<module>:fang_TX.py, 123] error
+[2019-03-06 14:20:24] INFO [<module>:fang_TX.py, 124] sprider of house from libafagn is end
