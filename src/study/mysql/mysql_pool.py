@@ -6,7 +6,7 @@
   @Last Modified time: 2018-08-03 17:10:56 
  '''
 import pymysql
-from sources import MysqlConfig
+from src.study.mysql.sources import MysqlConfig
 from DBUtils.PooledDB import PooledDB
 
 

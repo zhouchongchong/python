@@ -38,7 +38,7 @@ def music_max():
     os.environ["webdriver.chrome.driver"] = chromedriver
     # driver 初始化
     options = webdriver.ChromeOptions()
-    options.add_argument('headless')
+    # options.add_argument('headless')
     # options.add_argument('--disable-gpu')
     options.add_argument('lang=zh_CN.gbk')
     driver = webdriver.Chrome(chromedriver, chrome_options=options)
