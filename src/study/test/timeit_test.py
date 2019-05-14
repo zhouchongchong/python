@@ -33,5 +33,14 @@ with open(file_paht, 'r', encoding='UTF-8') as file:
 
 if __name__ == '__main__':
     print('excute timeit_test')
-    print(timeit.timeit(stmt=file_db_for,number=0))
-    print(timeit.timeit(stmt=file_db_kv,number=0))
+    # print(timeit.timeit(stmt=file_db_for,number=0))
+    # print(timeit.timeit(stmt=file_db_kv,number=0))
+    # request_toppings = []
+    # if request_toppings:
+    #     for topping in request_toppings:
+    #         print("Adding %s " % topping)
+    #     print("\n finish making your pizza!")
+    # else:
+    #     print("Are you sure you want a plain pizza?")
+
+
